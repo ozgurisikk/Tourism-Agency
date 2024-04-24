@@ -45,5 +45,7 @@ Her tablo, projenin gereksinimlerini karşılamak için gerekli alanlara sahipti
 2. Rezervasyonlar eklenip güncellenebilir ve silinebilir.
 3. Stoğa göre müsait odalar aranabilir ve rezervasyon yapılabilir.
 
-
+# Not
+Rezervasyon güncelleme kısmını yetiştiremedim, geliştirmeye devam ediyorum.
+Çözmem gereken bazı bugları programı kullandıkça farkettim, bu süreçte onları da iyileştirmeye devam ediyorum.
 
